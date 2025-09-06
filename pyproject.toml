@@ -7,5 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "cryptography>=45.0.7",
     "playsound==1.2.2",
+    "pytube>=15.0.0",
     "rich>=14.1.0",
+    "yt-dlp>=2025.9.5",
 ]
