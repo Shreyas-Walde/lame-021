@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "cryptography>=45.0.7",
+    "playsound==1.2.2",
     "rich>=14.1.0",
 ]
